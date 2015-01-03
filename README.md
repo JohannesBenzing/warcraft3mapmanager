@@ -20,10 +20,10 @@ warcraft3mapmangerStyledWithoutFullscreen.exe does not have a fullscreen mode.
 warcraft3mapmanagerUnstyled.exe is a older version and may contain more bugs and looks more like a normal microsoft windows window.
 
 warcraft3mapmangerStyledFullscreen.exe
-![SORRY IMAGE WAS DELETED](https://github.com/JohannesBenzing/warcraft3mapmanager/master/warcraft3mapmangerStyledFullscreen/warcraft3mapmangerStyledFullscreen.png)
+![SORRY IMAGE WAS DELETED](https://github.com/JohannesBenzing/warcraft3mapmanager/blob/master/warcraft3mapmangerStyledFullscreen/warcraft3mapmangerStyledFullscreen.PNG)
 
 warcraft3mapmangerStyledWithoutFullscreen.exe
-![SORRY IMAGE WAS DELETED](https://github.com/JohannesBenzing/warcraft3mapmanager/master/warcraft3mapmangerStyledWithoutFullscreen/warcraft3mapmangerStyledWithoutFullscreen.png)
+![SORRY IMAGE WAS DELETED](https://raw.githubusercontent.com/JohannesBenzing/warcraft3mapmanager/master/warcraft3mapmangerStyledWithoutFullscreen/warcraft3mapmangerStyledWithoutFullscreen.PNG)
 
 warcraft3mapmanagerUnstyled.exe
 ![SORRY IMAGE WAS DELETED](https://raw.githubusercontent.com/JohannesBenzing/warcraft3mapmanager/master/warcraft3mapmanagerUnstyled/warcraft3mapmanagerUnstyled.PNG)
