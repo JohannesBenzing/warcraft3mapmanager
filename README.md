@@ -17,20 +17,23 @@ I recommend using warcraft3mapmangerStyledFullscreen.exe
 
 warcraft3mapmangerStyledWithoutFullscreen.exe does not have a fullscreen mode.
 
-warcraft3mapmanagerUnstyled.exe is a older version and looks more like a normal microsoft windows window.
+warcraft3mapmanagerUnstyled.exe is a older version and may contain more bugs and looks more like a normal microsoft windows window.
 
 warcraft3mapmangerStyledFullscreen.exe
-![SORRY IMAGE WAS DELETED](https://github.com/JohannesBenzing/wc3mapmanager/blob/master/warcraft3mapmangerStyledFullscreen/warcraft3mapmangerStyledFullscreen.png)
+![SORRY IMAGE WAS DELETED](https://github.com/JohannesBenzing/warcraft3mapmanager/blob/master/warcraft3mapmangerStyledFullscreen/warcraft3mapmangerStyledFullscreen.png)
 
 warcraft3mapmangerStyledWithoutFullscreen.exe
-![SORRY IMAGE WAS DELETED](https://github.com/JohannesBenzing/wc3mapmanager/blob/master/warcraft3mapmangerStyledWithoutFullscreen/warcraft3mapmangerStyledWithoutFullscreen.png)
+![SORRY IMAGE WAS DELETED](https://github.com/JohannesBenzing/warcraft3mapmanager/blob/master/warcraft3mapmangerStyledWithoutFullscreen/warcraft3mapmangerStyledWithoutFullscreen.png)
 
 warcraft3mapmanagerUnstyled.exe
-![SORRY IMAGE WAS DELETED](https://github.com/JohannesBenzing/wc3mapmanager/blob/master/warcraft3mapmanagerUnstyled/warcraft3mapmanagerUnstyled.png)
+![SORRY IMAGE WAS DELETED](https://github.com/JohannesBenzing/warcraft3mapmanager/blob/master/warcraft3mapmanagerUnstyled/warcraft3mapmanagerUnstyled.png)
 
 
-Im not sure about the license. Readmore about the license from the used C++-framework Qt at https://qt-project.org/products/licensing.
-Do whatever you want to do with the sourcecode.
+QtLicense at https://qt-project.org/products/licensing
 
 I compiled with MinGW using QtCreator and Qt5.3.0.
 
+todo:
+-automatically detect warcraft 3 maps directory (read from registry)
+-somehow hack warcraft 3 into loading/hosting the selected map. maybe possible in GHost++ 
+-fix fonts not being fully displayed on warcraft3mapmangerStyledWithoutFullscreen and warcraft3mapmanagerUnstyled
