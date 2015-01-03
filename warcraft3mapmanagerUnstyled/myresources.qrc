@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/re">
+        <file>star.png</file>
+        <file>windowicon.ico</file>
+    </qresource>
+</RCC>

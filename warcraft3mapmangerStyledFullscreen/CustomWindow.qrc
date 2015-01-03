@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>stylesheet.qss</file>
+        <file>img/btnFs.png</file>
+        <file>img/btnHell.png</file>
+        <file>img/btnMax.png</file>
+        <file>img/btnMaxG.png</file>
+        <file>img/btnMinG.png</file>
+        <file>img/btnSmallWindow.png</file>
+        <file>img/loading.gif</file>
+        <file>img/star.png</file>
+        <file>img/topFat.png</file>
+        <file>img/windowicon.ico</file>
+        <file>img/btnMin.png</file>
+        <file>img/btnClose.png</file>
+        <file>img/btnCloseG.png</file>
+        <file>img/btnSmallWindowG.png</file>
+        <file>img/btnFsG.png</file>
+        <file>img/left.jpg</file>
+        <file>img/right.jpg</file>
+        <file>img/top.jpg</file>
+        <file>img/btnG.png</file>
+        <file>img/btnDisabled.png</file>
+    </qresource>
+</RCC>
