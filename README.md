@@ -39,4 +39,5 @@ I compiled with MinGW using QtCreator and Qt5.3.0.
 todo:
   - automatically detect warcraft 3 maps directory (read from registry)
   - somehow hack warcraft 3 into loading/hosting the selected map. maybe possible with GHost++ 
+  - try another database for more performance. currently used is the relational database SQLite 
   - fix fonts not being fully displayed on warcraft3mapmangerStyledWithoutFullscreen and warcraft3mapmanagerUnstyled
